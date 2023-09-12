@@ -12,7 +12,9 @@ Collect the knowledge of operating system for tech interview.
    - [Comparison](concepts/operating_system/Program_Process_Thread_Coroutine.md#comparison)
    - [Process vs. Thread](concepts/operating_system/Program_Process_Thread_Coroutine.md#process-vs-thread)
    - [Coroutine vs. Thread](concepts/operating_system/Program_Process_Thread_Coroutine.md#coroutine-vs-thread)
-   
+
+
+## Need to add
 - CPU scheduling algorithms
 - Deadlock
    - Banker algorithm to prevent it
