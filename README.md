@@ -4,10 +4,12 @@
 Collect the knowledge of operating system for tech interview.
 
 ## Knowledge
-- [Program, Process, Thread and Coroutine](knowledge/Program_Process_Thread_Coroutine.md)
+- [**Program, Process, Thread and Coroutine**](knowledge/Program_Process_Thread_Coroutine.md)
    - [Program](knowledge/Program_Process_Thread_Coroutine.md#program)
    - [Process](knowledge/Program_Process_Thread_Coroutine.md#process)
+      - Inter-Process Communication (IPC)
    - [Thread](knowledge/Program_Process_Thread_Coroutine.md#thread)
+      - Inter-Tread Communication (ITC)
    - [Coroutine](knowledge/Program_Process_Thread_Coroutine.md#coroutine)
    - [Comparison](knowledge/Program_Process_Thread_Coroutine.md#comparison)
    - [Process vs. Thread](knowledge/Program_Process_Thread_Coroutine.md#process-vs-thread)
